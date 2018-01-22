@@ -1,0 +1,7 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="ic_menu_current_location" type="drawable">@android:drawable/ic_menu_mylocation</item>
+    <item name="ic_menu_city" type="drawable">@android:drawable/btn_radio</item>
+    <item name="ic_menu_week" type="drawable">@android:drawable/ic_lock_idle_lock</item>
+    <item name="ic_menu_about" type="drawable">@android:drawable/ic_menu_info_details</item>
+    <item name="ic_menu_setting" type="drawable">@android:drawable/ic_dialog_info</item>
+</resources>

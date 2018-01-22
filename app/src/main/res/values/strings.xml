@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HodLife</string>
+    <string name="title_activity_home">HodLife Weather</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Setting</string>
+    <string name="weather_lbl">Weather ?</string>
+    <string name="temp_max_lbl">Max Temperature</string>
+    <string name="temp_min_lbl">Min Temperature</string>
+    <string name="temp_lbl">Temperature</string>
+    <string name="pressure_lbl">Atmospheric pressure : </string>
+    <string name="pressure_unit_lbl">hPa</string>
+    <string name="humidity_lbl">Humidity</string>
+    <string name="wind_lbl"> Wind : </string>
+    <string name="wind_unit_lbl"> Mph</string>
+    <string name="sunrise_lbl"> Sunrise : </string>
+    <string name="sunset_lbl"> Sunset : </string>
+    <string name="your_location">Your Location is : </string>
+    <string name="city_msg">Please enter valid city</string>
+    <string name="server_msg">Server not responding please try later.</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="eTextHintColor">#8c8b8b</color>
+    <color name="eTextBgColor">#00000000</color>
+    <color name="green_color">#149078</color>
+    <color name="gTextColor01">#149379</color>
+    <color name="BlackColor">#010101</color>
+    <color name="WhiteColor">#fff</color>
+    <color name="sc_bg_color">#efeff4</color>
+    <color name="headercolor">#000000</color>
+    <color name="sc_holder_color">#efeff4</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="black_color">#000000</color>
+    <color name="sc_tab_color">#db4f42</color>
+
+</resources>
+
